@@ -1,0 +1,20 @@
+Staying safe online in India requires a combination of technical settings and situational awareness, especially with the prevalence of UPI and Aadhaar-based services. Here is a specialized checklist for college students:
+
+The 'Stay Safe Online' Checklist
+The Golden Rule of UPI: Never enter your UPI PIN to receive money. Scammers often send "Collect Requests" on apps like GPay or PhonePe, claiming you have won a prize or a scholarship. If you are prompted for a PIN, money is leaving your account, not entering it.
+
+The QR Code Trap: Avoid scanning QR codes sent over WhatsApp or Telegram to "verify" your identity or "activate" a payment. Legitimate businesses and portals will never ask you to scan a code to credit your account.
+
+Use the Official Reporting Channels: If you fall victim to financial fraud, immediately call the National Cyber Crime Helpline at 1930 or report the incident at [suspicious link removed]. Reporting within the "Golden Hour" (the first 2 hours) significantly increases the chance of freezing the stolen funds.
+
+Lock Your Aadhaar Biometrics: Use the mAadhaar app or the UIDAI portal to "Lock" your biometrics. This prevents anyone from using your fingerprint data for unauthorized SIM swaps or banking transactions.
+
+Enable 'Masked Aadhaar': When submitting ID proof for hostel registrations, exams, or SIM cards, download a Masked Aadhaar from the UIDAI website. This hides the first 8 digits of your Aadhaar number, protecting your primary identity key.
+
+Verify 'Part-Time' Job Offers: Be extremely wary of WhatsApp messages offering "Work from Home" or "YouTube Like" tasks. These often lead to "Task Scams" where you are eventually asked to pay a "security deposit" to withdraw your "earnings."
+
+Secure Your WhatsApp: Enable Two-Step Verification (Settings > Account > Two-step verification). This adds a PIN requirement so that even if a scammer manages to trick you into sharing an OTP, they cannot log into your account on another device.
+
+Audit Public Wi-Fi Use: Avoid accessing your University LMS (Learning Management System) or banking apps over free public Wi-Fi in canteens or railway stations. Use your mobile data or a trusted VPN to prevent "Man-in-the-Middle" attacks.
+
+Would you like me to create a 30-second "Emergency Action

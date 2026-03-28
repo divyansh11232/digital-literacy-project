@@ -1,0 +1,10 @@
+Phishing: A Digital Deception Case Study
+Phishing is a form of social engineering where cybercriminals pose as a legitimate entity—like a bank, a university, or a tech giant—to trick individuals into revealing sensitive data. While technology has advanced, the human element remains the weakest link in the security chain.
+The Anatomy of a Real-World Attack
+The 2016 Democratic National Committee (DNC) breach serves as a stark reminder of phishing’s power. According to reports by The Guardian, the attack followed a classic, devastating sequence:
+1.	Targeting: Attackers identified high-level individuals, including campaign chairman John Podesta.
+2.	The Bait: An email arrived disguised as an official "Google Security Alert," claiming that someone had his password and he needed to change it immediately.
+3.	The Hook: The "Change Password" button led to a shortened "Bitly" URL, which redirected to a pixel-perfect replica of a Google login page.
+4.	The Catch: Once the credentials were typed into the fake page, the attackers harvested them, gaining access to over 60,000 private emails.
+Who is Targeted and What are the Risks?
+While "Whaling" targets high-profile executives, anyone with a digital footprint is a potential victim. Students are often targeted with fake "Financial Aid" or "Account Verification" emails. The consequences are severe: identity theft, unauthorized financial transactions, and the compromising of entire institutional networks. As seen in the DNC case, the fallout can even include massive data leaks that damage reputations permanently.
